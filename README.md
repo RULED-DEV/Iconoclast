@@ -1,4 +1,5 @@
-unity game project _name from _year (_state). _description
+unity game project Iconoclast/Kastic from 2026 (abandoned due to overambitious design). 2d melee fighting game, full physics body with psuedo-active ragdoll
+would fight enemies with customisable, physics based weapons with the ability to knock weapons out of an enemies hands or throw them off balance.
 
 requirements :
   - OS that can run unity editor.
@@ -14,6 +15,21 @@ install instructions :
 
 gameplay notes :
 
+as in AGILE the player can move left and right(AD) more controls
 
+controller : 
+  - the body used in the game is the same as AGILE only retooled for melee weapons and made simpler to impliment by compartmentalising each limb into a
+    self governing system. the legs step through the world adgusting the hight of the body based on the enviroment, the body can rotate freely and seeks to
+    right itself, if the body is knocked too far off centre it will enter a ragdoll state. each limb can individually ragdoll and de-ragdoll to fit gameplay
+    needs.
+
+  - as in AGILE the user has a number of weapons to equip, these sit at specific positions on the players body, when equipped they can be swung around to
+    attack enemies, if the weapon strays too far from the hand then the hand lets go allowing for a strong strike to disarm an opponent.
+
+there were future plans of the player going from level to level around a map killing enemies to gain resources, using these they could upgrade their stats,
+make new weapons out of different materials and create spells, the spell editor would have been dynamic with players placing and connecting different magic
+nodes, depending on the connection, spacing and alignment of the nodes the spells would gain different effects/costs.
 
 please direct all inquiries, questions and problems to ruled.dev@gmail.com
+
+
