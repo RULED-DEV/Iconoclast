@@ -22,7 +22,9 @@ the player could equip weapons to their left and right hand(QE) with 2 handed we
 by players could point the weapon equipped to their left and right hand(LMB/RMB) this would allow the player to swing the weapon by moveing their mouse,
 furthermore if a weapon was used in 2 hands it would swap which end would point to the mouses position.
 
+the player could also flip their weapon along its axis to utilise different aspects of its geomotry(ZX) and could project the weapon forward to block(space).
 
+overall this gave the player the technical capacity to do many things with the weapon at the cost of their being too many controls.
 
 controller : 
   - the body used in the game is the same as AGILE only retooled for melee weapons and made simpler to impliment by compartmentalising each limb into a
@@ -38,5 +40,3 @@ make new weapons out of different materials and create spells, the spell editor 
 nodes, depending on the connection, spacing and alignment of the nodes the spells would gain different effects/costs.
 
 please direct all inquiries, questions and problems to ruled.dev@gmail.com
-
-
