@@ -15,7 +15,14 @@ install instructions :
 
 gameplay notes :
 
-as in AGILE the player can move left and right(AD) more controls
+as in AGILE the player can move left and right(AD) and sprint(shift).
+
+the player could equip weapons to their left and right hand(QE) with 2 handed weapons taking up both slots, players could also de-equip weapons(QE) and could kick(R).
+
+by players could point the weapon equipped to their left and right hand(LMB/RMB) this would allow the player to swing the weapon by moveing their mouse,
+furthermore if a weapon was used in 2 hands it would swap which end would point to the mouses position.
+
+
 
 controller : 
   - the body used in the game is the same as AGILE only retooled for melee weapons and made simpler to impliment by compartmentalising each limb into a
